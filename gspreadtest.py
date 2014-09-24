@@ -97,7 +97,7 @@ class TodoItem(object):
 
 scope = ['https://spreadsheets.google.com/feeds', 'https://docs.google.com/feeds']
 
-f = file('/Users/pc/Downloads/Household Todo-aafb6e63aee2.p12', 'rb')
+f = file('Household Todo-aafb6e63aee2.p12', 'rb')
 key = f.read()
 f.close()
 
