@@ -1,2 +1,5 @@
 
 *.p12
+config_local.ini
+*.pyc
+*.pyo
